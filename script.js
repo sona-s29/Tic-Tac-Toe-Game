@@ -4,8 +4,8 @@ let newbtn = document.querySelector(".newbtn");
 let msg_container = document.querySelector(".msg_container");
 let msg = document.querySelector("#msg");
 
-let turnO = true; 
-let count = 0;// player X and O.
+let turnO = true; // player X and O
+let count = 0;
 
 // winning patterns----------------
 
